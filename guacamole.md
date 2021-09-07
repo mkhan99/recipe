@@ -2,7 +2,7 @@ Ingredients:
 - 2 avovados
 - 1 lime
 - 2 tsp salt
-- onion
+- 1 onion
 - jalapenho
 
 Instructions:
